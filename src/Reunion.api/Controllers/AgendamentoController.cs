@@ -1,7 +1,7 @@
 namespace Reunion.api.Controllers
 {
-    public class AgendamentoController
-    {
+	public class AgendamentoController
+	{
 
-    }
+	}
 }
